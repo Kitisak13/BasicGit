@@ -1,0 +1,3 @@
+ฺBranch คือ กิ่งก้านสาขาที่แยกออกจาก main
+ทุกอย่างบน Main จะถูก copy ไปไว้ใน branch ใหม่ด้วย
+"git checkout ชื่อbranch"  เป็นการย้ายไป branch ที่ต้องการ
