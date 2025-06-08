@@ -1,5 +1,0 @@
-print("hello world")
-print("hello world again") 
-print("hello world again and again")
-print("hello world again and again and again")
-print("hello world again and again and again and again")
